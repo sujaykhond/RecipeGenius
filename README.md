@@ -91,6 +91,3 @@ This project is licensed under the MIT License.
  ```sh
  Make sure to replace placeholders like `https://github.com/sujakhond/sk-insight.git` and `your_api_key_here` with your actual repository URL and API 
  key. You can also customize the sections to better fit your project's details.
-
-
-
